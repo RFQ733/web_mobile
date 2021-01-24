@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["zhangai","ren","parking"],collisionMatrix:[[false,true],[true,false,true],[false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/unused_begin.fire",orientation:"",jsList:[],bundleVers:{internal:"279e0",main:"12cf9"}};
